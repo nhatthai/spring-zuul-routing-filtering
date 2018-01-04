@@ -1,0 +1,7 @@
+.settings
+.project
+
+# Maven
+target/
+gateway/target/
+student/target/
