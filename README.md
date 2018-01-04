@@ -14,8 +14,10 @@ Visit one of the Student service endpoints, as localhost:8080/student/available,
 
 http://localhost:8080/student/available
 
-Zuul Gateway: an edge service application that can proxy and filter requests for your microservices.
+
+Zuul Gateway: an edge service application that can proxy and filter requests for microservices.
 
 ### Reference
 [Routing and Filtering](https://spring.io/guides/gs/routing-and-filtering/)
+
 [Router and Filter: Zuul](https://cloud.spring.io/spring-cloud-netflix/multi/multi__router_and_filter_zuul.html)
